@@ -40,6 +40,7 @@ body{
     background-color: hsla(178, 100%, 50%, 50%);
     opacity: 0;
     transition: .2s all ease-in-out;
+    border-radius: 10px;
 }
 
 .cube .overlay:hover{
